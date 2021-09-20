@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("images/staph.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(232, 7, 26);
+  }
+  .body {
+    font: "Times";
+    background-color: #f14747;
+  }
